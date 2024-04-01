@@ -6,6 +6,11 @@ cssclasses:
  - center-h
 Tags:
  - Mundo/Núrion/Farland/Draven
+Tipo: Reino
+Tipoinv: 1
+Região: Daven
+Continente: Farland
+Continenteinv: 1
 ---
 
 # [[Daven]]

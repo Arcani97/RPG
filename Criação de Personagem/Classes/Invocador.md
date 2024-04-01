@@ -63,8 +63,8 @@ Shadow: off
 
 --- end-multi-column
 
-### Habilidades de Classe
-#### Tecelão
+## Habilidades de Classe
+### Tecelão
 *Característica de I° nível*
 
 Sua conexão com a trama floresce de uma forma única. Você não pode lançar feitiços, porem pode tecer a trama para conjurar criaturas mágicas.
@@ -75,14 +75,14 @@ A menos que seja especificado, cada invocação tem suas estatísticas iguais ao
 
 Caso alguma invocação receba alguma condição, apenas ela recebe essa condição.
 
-##### Atributo de Conjuração
+#### Atributo de Conjuração
 O atributo de conjuração do Invocador é a Sabedoria.
 
 **CD para evitar suas magias =** 8 + seu bônus de proficiência + seu modificador de Sabedoria
 
 **Modificador de ataque mágico =** seu bônus de proficiência + seu modificador de Sabedoria
 
-##### Reserva de Invocador
+#### Reserva de Invocador
 Sua habilidade de tecer a trama como uma forma física é representada por seus pontos de reserva de invocação. A maioria dos recursos de invocador usa esse recurso como combustível para suas habilidades. Você começa com 2 pontos de reserva de invocação e ganha mais, conforme mostrado na tabela de classe. Você recupera qualquer ponto gasto ao terminar um descanso longo. Se algum recurso exigir que você gaste um ponto de reserva de invocação, você também deverá estar empunhando um foco de conjuração.
 
 ### Invocação Simples

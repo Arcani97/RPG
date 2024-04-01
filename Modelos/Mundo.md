@@ -4,7 +4,10 @@ cssclasses:
 <%* tR += ' - wide-page' %>
 <%* tR += ' - justify' %>
 Tags:
-<%* tR += ' - Mundo/' %>
+<%* tR += ' - Mundo/Núrion/' %>
+Alinhamento: 
+Domínios: 
 ---
 
 # [[<% tp.file.title %>]]
+

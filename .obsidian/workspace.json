@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8cc3d12d657f5ea4",
+        "id": "401d144794e61529",
         "type": "tabs",
         "children": [
           {
-            "id": "578e59bac8ad4e63",
+            "id": "5015a87d306d1599",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mundo/Núrion/Phanteon/Deuses Maiores/Bunga Proudfoot, Senhor Halfling.md",
-                "mode": "source",
+                "file": "Criação de Personagem/Classes/Artífice.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Item/Arma/de-Fogo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mundo/Núrion/Phanteon/Deuses Maiores/Bunga Proudfoot, Senhor Halfling.md"
+                "file": "Criação de Personagem/Classes/Artífice.md"
+              }
+            }
+          },
+          {
+            "id": "e54b488977249e09",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Criação de Personagem/Classes/Artífice.md"
               }
             }
           }
@@ -140,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mundo/Núrion/Phanteon/Deuses Maiores/Bunga Proudfoot, Senhor Halfling.md",
+                "file": "Criação de Personagem/Classes/Artífice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mundo/Núrion/Phanteon/Deuses Maiores/Bunga Proudfoot, Senhor Halfling.md",
+                "file": "Criação de Personagem/Classes/Artífice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -188,62 +198,59 @@
       "templater-obsidian:Templater": true,
       "cmdr:Multi-Column Markdown: Insert Multi-Column Region": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian42-brat:BRAT": true,
-      "rpg-manager:RPG Manager": true,
-      "periodic-notes:Open today": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": true,
+      "obsidian42-brat:BRAT": true
     }
   },
-  "active": "a490da9491c42f0e",
+  "active": "5015a87d306d1599",
   "lastOpenFiles": [
-    "Mundo/Núrion/Phanteon/Deuses.md",
-    "Mundo/Núrion/Phanteon/Deuses Maiores/Bunga Proudfoot, Senhor Halfling.md",
-    "Mundo/Núrion/Phanteon/Deuses Menores/Calbran, Senhor da Sorte.md",
-    "Mundo/Núrion/Phanteon/Deuses Menores/Thranton, Senhor do Relâmpago.md",
-    "Mundo/Núrion/Phanteon/Deuses Menores/Salystra, Rainha dos Drow.md",
-    "Mundo/Núrion/Phanteon/Deuses Menores/Bucca Tunnelly.md",
-    "Mundo/Núrion/Phanteon/Deuses Menores/Barlifandorf.md",
-    "Mundo/Núrion/Phanteon/Deuses Menores/Dhurli Ironbeard.md",
-    "Mundo/Núrion/Phanteon/Deuses Menores/Grlarshh, Deus da Morte.md",
-    "Mundo/Núrion/Phanteon/Deuses Menores/Flamgart, Deus do Fogo.md",
-    "Mundo/Núrion/Phanteon/Deuses Menores/Janora, Deusa do Destino.md",
-    "Mundo/Núrion/Phanteon/Deuses Menores/Aknor, o Verdadeiro.md",
-    "Mundo/Núrion/Phanteon/Deuses Menores/Reeanan, o Brilhante.md",
-    "Mundo/Núrion/Phanteon/Deuses Maiores/Dekk, Senhor do Equilíbrio.md",
-    "Mundo/Núrion/Phanteon/Deuses Maiores/Vornoth, o Caminhante das Trevas.md",
-    "Mundo/Núrion/Phanteon/Deuses Maiores/Khuckduck Gemcutter.md",
-    "Mundo/Núrion/Phanteon/Deuses Maiores/Khuldul Rockcarver.md",
-    "Mundo/Núrion/Phanteon/Deuses Maiores/Tal-Allustiel, Elflord.md",
-    "Mundo/Núrion/Phanteon/Deuses Maiores/Bel, Senhor Ladrão.md",
-    "Mundo/Núrion/Phanteon/Deuses Maiores/Neltak, Senhor da Lei.md",
-    "Mundo/Núrion/Phanteon/Deuses Maiores/Kantor, o Cruzado.md",
-    "Mundo/Núrion/Phanteon/Deuses Maiores/Bestra, Senhora da Bondade.md",
-    "Mundo/Núrion/Phanteon/Deuses Maiores/Heshtail, o Misericordioso.md",
-    "Mundo/Núrion/Farland/Daven/Daven.md",
-    "Mundo/Próprio/Solara.md",
-    "Mundo/Núrion/Phanteon/Deuses Maiores",
-    "Mundo/Núrion/Phanteon/Deuses Menores",
+    "Dashboards/Home.md",
+    "Criação de Personagem/Classes/Artífice.md",
+    "Criação de Personagem/Classes/Invocador.md",
+    "Databases/Magias",
     "Modelos/Mundo.md",
-    "Databases/Arquivos/Banner.webp",
-    "Mundo/Núrion/Phanteon",
+    "Modelos/NPC.md",
+    "Criação de Personagem/Npcs/000 Lista de Nomes.md",
+    "Dashboards/MOC/Herbário.md",
+    "Databases/Herbário/Asfódelo.md",
+    "Modelos/Erva.md",
+    "Databases/Herbário/Babosa.md",
+    "Databases/Herbário/Anêmona.md",
+    "Databases/Regras/Herbologia, Estações, Climas e Biomas.md",
+    "Databases/Herbário/Amieiro.md",
+    "Databases/Herbário/Acônito.md",
+    "Sem título.md",
+    "Modelos/Item.md",
+    "Criação de Personagem/Antecedente/Novo Antecedente.md",
+    "Criação de Personagem/Npcs/Novo NPC.md",
+    "Dashboards/MOC/Locais.md",
+    "Mundo/Núrion/Farland/Daven/Elder Daven.md",
+    "Mundo/Núrion/Farland/Daven/Daven.md",
+    "Dashboards/MOC/Classes.md",
+    "Dashboards/MOC/Histórias de Núrion.md",
+    "Dashboards/MOC/Itens.md",
+    "Mundo/Núrion/Calendário.md",
+    "Dashboards/Sem título.canvas",
+    "Mundo/Núrion/Sem título",
+    "Databases/Arquivos/grlarshh.jpg",
+    "Databases/Arquivos/grlarsshh.png",
+    "Databases/Arquivos/calbran.png",
+    "Databases/Arquivos/calbran.jpg",
+    "Databases/Arquivos/barli.jpg",
+    "Databases/Arquivos/barli 1.png",
+    "Databases/Arquivos/barli.png",
+    "Databases/Arquivos/janora.jpg",
+    "Databases/Arquivos/janora.png",
+    "Databases/Arquivos/aknor.jpg",
+    "Mundo/Núrion/Pantheon/Deuses Maiores",
+    "Mundo/Núrion/Pantheon/Deuses Menores",
+    "Mundo/Núrion/Pantheon",
     "Mundo/Núrion/Conteúdo Geral",
     "Mundo/Núrion/Farland/Daven",
     "Mundo/Núrion/Farland",
-    "Databases/Arquivos/elderdaven.jpg",
-    "Databases/Arquivos/Wildland3.jpg",
-    "Databases/Arquivos/eruna.jpg",
-    "Databases/Arquivos/wintervale2.jpg",
-    "Databases/Arquivos/kale2.jpg",
-    "Databases/Arquivos/belend.jpg",
-    "Databases/Arquivos/kelerakmap2.jpg",
-    "Databases/Arquivos/daven3.jpg",
-    "Databases/Arquivos/orland2.jpg",
-    "Sem título.canvas",
     "Sem título 1.canvas",
     "4 Mundo/Núrion/Eventos",
     "Sem título",
-    "Mundo/Próprio",
-    "Mundo/Núrion",
     "Dashboards/Home.canvas"
   ]
 }

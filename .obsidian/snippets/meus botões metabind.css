@@ -1,0 +1,23 @@
+.botaolargura button{
+	min-width: 130px;
+}
+
+.botaobold button{
+	font-weight: bold !important;
+}
+
+.botaogreen button{
+	background-color: #04AA6D;
+	color: white;
+}
+
+.botaoblue button{
+	background-color: #008CBA;
+	color: white;
+}
+
+.botaobrown button{
+	background-color: #964B00;
+	color: white;
+}
+

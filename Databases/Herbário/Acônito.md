@@ -8,7 +8,6 @@ Tipo: Prejudicial
 Raridade: Rara
 Bioma: Matagal
 Comestível: Não
-NoteIcon: erva
 ---
 # [[Acônito]]
 

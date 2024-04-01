@@ -6,6 +6,11 @@ cssclasses:
  - center-h
 Tags:
  - Mundo/Núrion/Farland/Draven/Elder-Draven
+Tipo: Capital
+Tipoinv: 2
+Região: Daven
+Continente: Farland
+Continenteinv: 1
 ---
 
 # [[Elder Daven]]

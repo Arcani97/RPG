@@ -6,7 +6,7 @@
   "defaultViewMode": "preview",
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "attachmentFolderPath": "0 Arquivos",
+  "attachmentFolderPath": "Databases/Arquivos",
   "pdfExportSettings": {
     "pageSize": "A3",
     "landscape": false,
