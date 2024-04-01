@@ -1,6 +1,6 @@
 ---
 cssclasses:
-  - dashboardhome
+  - center-h
 banner: "![[Banner.webp]]"
 banner_x: 0.5
 banner_y: 0.7
@@ -162,22 +162,14 @@ actions:
 
 ```
 
-<h1 align="center">Comandos</h1>
+## Comandos
 
-- `BUTTON[npc]`
-- `BUTTON[item]`
-- `BUTTON[erva]`
-- `BUTTON[veiculo]`
-- `BUTTON[classe]`
+`BUTTON[npc]`  `BUTTON[item]`  `BUTTON[erva]`  `BUTTON[veiculo]`  `BUTTON[classe]`
 
 **⠀**
 
-<h1 align="center">Menu</h1>
+# Menu
 
-- `BUTTON[moc-regrascasa]`
-- `BUTTON[moc-itens]`
-- `BUTTON[moc-ervas]`
-- `BUTTON[moc-veiculos]`
-- `BUTTON[moc-classes]`
+`BUTTON[moc-regrascasa]`  `BUTTON[moc-itens]`  `BUTTON[moc-ervas]`  `BUTTON[moc-veiculos]`  `BUTTON[moc-classes]`
 
 

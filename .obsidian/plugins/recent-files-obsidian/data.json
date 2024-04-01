@@ -1,8 +1,128 @@
 {
   "recentFiles": [
     {
+      "basename": "Bunga Proudfoot, Senhor Halfling",
+      "path": "Mundo/Núrion/Phanteon/Deuses Maiores/Bunga Proudfoot, Senhor Halfling.md"
+    },
+    {
+      "basename": "Deuses",
+      "path": "Mundo/Núrion/Phanteon/Deuses.md"
+    },
+    {
+      "basename": "Calbran, Senhor da Sorte",
+      "path": "Mundo/Núrion/Phanteon/Deuses Menores/Calbran, Senhor da Sorte.md"
+    },
+    {
+      "basename": "Thranton, Senhor do Relâmpago",
+      "path": "Mundo/Núrion/Phanteon/Deuses Menores/Thranton, Senhor do Relâmpago.md"
+    },
+    {
+      "basename": "Salystra, Rainha dos Drow",
+      "path": "Mundo/Núrion/Phanteon/Deuses Menores/Salystra, Rainha dos Drow.md"
+    },
+    {
+      "basename": "Bucca Tunnelly",
+      "path": "Mundo/Núrion/Phanteon/Deuses Menores/Bucca Tunnelly.md"
+    },
+    {
+      "basename": "Barlifandorf",
+      "path": "Mundo/Núrion/Phanteon/Deuses Menores/Barlifandorf.md"
+    },
+    {
+      "basename": "Dhurli Ironbeard",
+      "path": "Mundo/Núrion/Phanteon/Deuses Menores/Dhurli Ironbeard.md"
+    },
+    {
+      "basename": "Grlarshh, Deus da Morte",
+      "path": "Mundo/Núrion/Phanteon/Deuses Menores/Grlarshh, Deus da Morte.md"
+    },
+    {
+      "basename": "Flamgart, Deus do Fogo",
+      "path": "Mundo/Núrion/Phanteon/Deuses Menores/Flamgart, Deus do Fogo.md"
+    },
+    {
+      "basename": "Janora, Deusa do Destino",
+      "path": "Mundo/Núrion/Phanteon/Deuses Menores/Janora, Deusa do Destino.md"
+    },
+    {
+      "basename": "Aknor, o Verdadeiro",
+      "path": "Mundo/Núrion/Phanteon/Deuses Menores/Aknor, o Verdadeiro.md"
+    },
+    {
+      "basename": "Reeanan, o Brilhante",
+      "path": "Mundo/Núrion/Phanteon/Deuses Menores/Reeanan, o Brilhante.md"
+    },
+    {
+      "basename": "Dekk, Senhor do Equilíbrio",
+      "path": "Mundo/Núrion/Phanteon/Deuses Maiores/Dekk, Senhor do Equilíbrio.md"
+    },
+    {
+      "basename": "Vornoth, o Caminhante das Trevas",
+      "path": "Mundo/Núrion/Phanteon/Deuses Maiores/Vornoth, o Caminhante das Trevas.md"
+    },
+    {
+      "basename": "Khuckduck Gemcutter",
+      "path": "Mundo/Núrion/Phanteon/Deuses Maiores/Khuckduck Gemcutter.md"
+    },
+    {
+      "basename": "Khuldul Rockcarver",
+      "path": "Mundo/Núrion/Phanteon/Deuses Maiores/Khuldul Rockcarver.md"
+    },
+    {
+      "basename": "Tal-Allustiel, Elflord",
+      "path": "Mundo/Núrion/Phanteon/Deuses Maiores/Tal-Allustiel, Elflord.md"
+    },
+    {
+      "basename": "Bel, Senhor Ladrão",
+      "path": "Mundo/Núrion/Phanteon/Deuses Maiores/Bel, Senhor Ladrão.md"
+    },
+    {
+      "basename": "Neltak, Senhor da Lei",
+      "path": "Mundo/Núrion/Phanteon/Deuses Maiores/Neltak, Senhor da Lei.md"
+    },
+    {
+      "basename": "Kantor, o Cruzado",
+      "path": "Mundo/Núrion/Phanteon/Deuses Maiores/Kantor, o Cruzado.md"
+    },
+    {
+      "basename": "Bestra, Senhora da Bondade",
+      "path": "Mundo/Núrion/Phanteon/Deuses Maiores/Bestra, Senhora da Bondade.md"
+    },
+    {
+      "basename": "Heshtail, o Misericordioso",
+      "path": "Mundo/Núrion/Phanteon/Deuses Maiores/Heshtail, o Misericordioso.md"
+    },
+    {
+      "basename": "Daven",
+      "path": "Mundo/Núrion/Farland/Daven/Daven.md"
+    },
+    {
+      "basename": "Solara",
+      "path": "Mundo/Próprio/Solara.md"
+    },
+    {
+      "basename": "Mundo",
+      "path": "Modelos/Mundo.md"
+    },
+    {
       "basename": "Home",
       "path": "Dashboards/Home.md"
+    },
+    {
+      "basename": "Regras da Casa",
+      "path": "Dashboards/MOC/Regras da Casa.md"
+    },
+    {
+      "basename": "Itens",
+      "path": "Dashboards/MOC/Itens.md"
+    },
+    {
+      "basename": "Herbário",
+      "path": "Dashboards/MOC/Herbário.md"
+    },
+    {
+      "basename": "Veículos",
+      "path": "Dashboards/MOC/Veículos.md"
     },
     {
       "basename": "Classes",
@@ -11,14 +131,6 @@
     {
       "basename": "Elder Daven",
       "path": "Mundo/Núrion/Farland/Daven/Elder Daven.md"
-    },
-    {
-      "basename": "Daven",
-      "path": "Mundo/Núrion/Farland/Daven/Daven.md"
-    },
-    {
-      "basename": "Deuses",
-      "path": "Mundo/Núrion/Phanteon/Deuses.md"
     },
     {
       "basename": "Artífice",
@@ -43,14 +155,6 @@
     {
       "basename": "Mapas",
       "path": "Mundo/Núrion/Conteúdo Geral/Mapas.md"
-    },
-    {
-      "basename": "Solara",
-      "path": "Mundo/Próprio/Solara.md"
-    },
-    {
-      "basename": "Regras da Casa",
-      "path": "Dashboards/MOC/Regras da Casa.md"
     },
     {
       "basename": "Invocador",
@@ -85,10 +189,6 @@
       "path": "Databases/Itens/0,5 Kg de Alçafrão.md"
     },
     {
-      "basename": "Itens",
-      "path": "Dashboards/MOC/Itens.md"
-    },
-    {
       "basename": "0,5 Kg de Platina",
       "path": "Databases/Itens/0,5 Kg de Platina.md"
     },
@@ -99,106 +199,6 @@
     {
       "basename": "0,5 Kg de Ouro",
       "path": "Databases/Itens/0,5 Kg de Ouro.md"
-    },
-    {
-      "basename": "Boi",
-      "path": "Databases/Itens/Boi.md"
-    },
-    {
-      "basename": "0,5 Kg de Mel",
-      "path": "Databases/Itens/0,5 Kg de Mel.md"
-    },
-    {
-      "basename": "Vaca",
-      "path": "Databases/Itens/Vaca.md"
-    },
-    {
-      "basename": "1 m² de Seda",
-      "path": "Databases/Itens/1 m² de Seda.md"
-    },
-    {
-      "basename": "Rações de Viagem (1 Dia)",
-      "path": "Databases/Itens/Rações de Viagem (1 Dia).md"
-    },
-    {
-      "basename": "Perfume (Frasco)",
-      "path": "Databases/Itens/Perfume (Frasco).md"
-    },
-    {
-      "basename": "0,5 Kg de Vegetais",
-      "path": "Databases/Itens/0,5 Kg de Vegetais.md"
-    },
-    {
-      "basename": "Vela",
-      "path": "Databases/Itens/Vela.md"
-    },
-    {
-      "basename": "Tocha",
-      "path": "Databases/Itens/Tocha.md"
-    },
-    {
-      "basename": "Tinta (Frasco de 30ml)",
-      "path": "Databases/Itens/Tinta (Frasco de 30ml).md"
-    },
-    {
-      "basename": "Tenda para Duas Pessoas",
-      "path": "Databases/Itens/Tenda para Duas Pessoas.md"
-    },
-    {
-      "basename": "Sino",
-      "path": "Databases/Itens/Sino.md"
-    },
-    {
-      "basename": "Saco de Dormir",
-      "path": "Databases/Itens/Saco de Dormir.md"
-    },
-    {
-      "basename": "Sabão",
-      "path": "Databases/Itens/Sabão.md"
-    },
-    {
-      "basename": "Roldana e Polia",
-      "path": "Databases/Itens/Roldana e Polia.md"
-    },
-    {
-      "basename": "Píton",
-      "path": "Databases/Itens/Píton.md"
-    },
-    {
-      "basename": "Picareta de Minerador",
-      "path": "Databases/Itens/Picareta de Minerador.md"
-    },
-    {
-      "basename": "Pergaminho (1 Folha)",
-      "path": "Databases/Itens/Pergaminho (1 Folha).md"
-    },
-    {
-      "basename": "0,5 Kg de Incenso",
-      "path": "Databases/Itens/0,5 Kg de Incenso.md"
-    },
-    {
-      "basename": "0,5 Kg de Gengibre",
-      "path": "Databases/Itens/0,5 Kg de Gengibre.md"
-    },
-    {
-      "basename": "0,5 Kg de Pimenta",
-      "path": "Databases/Itens/0,5 Kg de Pimenta.md"
-    },
-    {
-      "basename": "Ábaco",
-      "path": "Databases/Itens/Ábaco.md"
-    },
-    {
-      "basename": "Pedra de Amolar",
-      "path": "Databases/Itens/Pedra de Amolar.md"
-    },
-    {
-      "basename": "Pé de Cabra",
-      "path": "Databases/Itens/Pé de Cabra.md"
-    },
-    {
-      "basename": "Papel (1 Folha)",
-      "path": "Databases/Itens/Papel (1 Folha).md"
     }
   ],
   "omittedPaths": [],

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboards/Home.md",
-                "mode": "preview",
+                "file": "Mundo/Núrion/Phanteon/Deuses Maiores/Bunga Proudfoot, Senhor Halfling.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboards/Home.md"
+                "file": "Mundo/Núrion/Phanteon/Deuses Maiores/Bunga Proudfoot, Senhor Halfling.md"
               }
             }
           }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboards/Home.md",
+                "file": "Mundo/Núrion/Phanteon/Deuses Maiores/Bunga Proudfoot, Senhor Halfling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboards/Home.md",
+                "file": "Mundo/Núrion/Phanteon/Deuses Maiores/Bunga Proudfoot, Senhor Halfling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -194,40 +194,42 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "578e59bac8ad4e63",
+  "active": "a490da9491c42f0e",
   "lastOpenFiles": [
-    "Dashboards/MOC/Classes.md",
-    "Mundo/Núrion/Farland/Daven/Elder Daven.md",
-    "Dashboards/Home.md",
-    "Mundo/Núrion/Farland/Daven/Daven.md",
     "Mundo/Núrion/Phanteon/Deuses.md",
-    "Criação de Personagem/Classes/Artífice.md",
-    "Modelos/Campanha.md",
+    "Mundo/Núrion/Phanteon/Deuses Maiores/Bunga Proudfoot, Senhor Halfling.md",
+    "Mundo/Núrion/Phanteon/Deuses Menores/Calbran, Senhor da Sorte.md",
+    "Mundo/Núrion/Phanteon/Deuses Menores/Thranton, Senhor do Relâmpago.md",
+    "Mundo/Núrion/Phanteon/Deuses Menores/Salystra, Rainha dos Drow.md",
+    "Mundo/Núrion/Phanteon/Deuses Menores/Bucca Tunnelly.md",
+    "Mundo/Núrion/Phanteon/Deuses Menores/Barlifandorf.md",
+    "Mundo/Núrion/Phanteon/Deuses Menores/Dhurli Ironbeard.md",
+    "Mundo/Núrion/Phanteon/Deuses Menores/Grlarshh, Deus da Morte.md",
+    "Mundo/Núrion/Phanteon/Deuses Menores/Flamgart, Deus do Fogo.md",
+    "Mundo/Núrion/Phanteon/Deuses Menores/Janora, Deusa do Destino.md",
+    "Mundo/Núrion/Phanteon/Deuses Menores/Aknor, o Verdadeiro.md",
+    "Mundo/Núrion/Phanteon/Deuses Menores/Reeanan, o Brilhante.md",
+    "Mundo/Núrion/Phanteon/Deuses Maiores/Dekk, Senhor do Equilíbrio.md",
+    "Mundo/Núrion/Phanteon/Deuses Maiores/Vornoth, o Caminhante das Trevas.md",
+    "Mundo/Núrion/Phanteon/Deuses Maiores/Khuckduck Gemcutter.md",
+    "Mundo/Núrion/Phanteon/Deuses Maiores/Khuldul Rockcarver.md",
+    "Mundo/Núrion/Phanteon/Deuses Maiores/Tal-Allustiel, Elflord.md",
+    "Mundo/Núrion/Phanteon/Deuses Maiores/Bel, Senhor Ladrão.md",
+    "Mundo/Núrion/Phanteon/Deuses Maiores/Neltak, Senhor da Lei.md",
+    "Mundo/Núrion/Phanteon/Deuses Maiores/Kantor, o Cruzado.md",
+    "Mundo/Núrion/Phanteon/Deuses Maiores/Bestra, Senhora da Bondade.md",
+    "Mundo/Núrion/Phanteon/Deuses Maiores/Heshtail, o Misericordioso.md",
+    "Mundo/Núrion/Farland/Daven/Daven.md",
+    "Mundo/Próprio/Solara.md",
+    "Mundo/Núrion/Phanteon/Deuses Maiores",
+    "Mundo/Núrion/Phanteon/Deuses Menores",
+    "Modelos/Mundo.md",
     "Databases/Arquivos/Banner.webp",
     "Mundo/Núrion/Phanteon",
-    "Mundo/Núrion/Conteúdo Geral/Documentação Élfica da História do Mundo.md",
-    "Mundo/Núrion/Conteúdo Geral/História Resumida de Farland.md",
-    "Mundo/Núrion/Conteúdo Geral/Mapas.md",
-    "Dashboards/Home.md",
-    "Mundo/Próprio/Solara.md",
     "Mundo/Núrion/Conteúdo Geral",
     "Mundo/Núrion/Farland/Daven",
     "Mundo/Núrion/Farland",
     "Databases/Arquivos/elderdaven.jpg",
-    "Criação de Personagem/Classes/Invocador.md",
-    "Databases/Itens/0,5 Kg de Fermento.md",
-    "Databases/Itens/0,5 Kg de Farinha.md",
-    "Databases/Itens/0,5 Kg de Cobre.md",
-    "Databases/Itens/0,5 Kg de Carvão.md",
-    "Databases/Itens/0,5 Kg de Canela.md",
-    "Databases/Itens/0,5 Kg de Argila.md",
-    "Databases/Itens/0,5 Kg de Alçafrão.md",
-    "Dashboards/MOC/Itens.md",
-    "Databases/Itens/0,5 Kg de Platina.md",
-    "Databases/Itens/Tapete.md",
-    "Databases/Itens/0,5 Kg de Ouro.md",
-    "Databases/Itens/Boi.md",
-    "Databases/Itens/0,5 Kg de Mel.md",
     "Databases/Arquivos/Wildland3.jpg",
     "Databases/Arquivos/eruna.jpg",
     "Databases/Arquivos/wintervale2.jpg",
@@ -242,8 +244,6 @@
     "Sem título",
     "Mundo/Próprio",
     "Mundo/Núrion",
-    "3 Campanhas/One Shots",
-    "Mundo",
     "Dashboards/Home.canvas"
   ]
 }

@@ -3,11 +3,9 @@ cssclasses:
  - wide-page
 Tags:
  - Mundo
-NoteIcon: npc
 ---
 
 # [[Solara]]
-
 
 ### Mapa Básico
 
@@ -16,4 +14,3 @@ NoteIcon: npc
 ### Mapa Político
 
 ![[Solara - Mapa Político.png]]
-
