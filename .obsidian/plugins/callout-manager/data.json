@@ -1,0 +1,132 @@
+{
+  "callouts": {
+    "custom": [
+      "basic",
+      "stats",
+      "traits",
+      "life",
+      "skill",
+      "actions",
+      "idiom",
+      "spells",
+      "prof",
+      "equip",
+      "social",
+      "legendary",
+      "reaction",
+      "description"
+    ],
+    "settings": {
+      "stats": [
+        {
+          "changes": {
+            "icon": "lucide-flame",
+            "color": "139, 233, 253"
+          }
+        }
+      ],
+      "life": [
+        {
+          "changes": {
+            "icon": "lucide-activity",
+            "color": "215, 71, 71"
+          }
+        }
+      ],
+      "skill": [
+        {
+          "changes": {
+            "icon": "lucide-binary",
+            "color": "79, 206, 70"
+          }
+        }
+      ],
+      "traits": [
+        {
+          "changes": {
+            "icon": "lucide-zap",
+            "color": "232, 247, 29"
+          }
+        }
+      ],
+      "actions": [
+        {
+          "changes": {
+            "icon": "lucide-axe",
+            "color": "218, 100, 22"
+          }
+        }
+      ],
+      "idiom": [
+        {
+          "changes": {
+            "icon": "lucide-book-a",
+            "color": "223, 98, 206"
+          }
+        }
+      ],
+      "spells": [
+        {
+          "changes": {
+            "icon": "lucide-book-open-text",
+            "color": "194, 158, 255"
+          }
+        }
+      ],
+      "prof": [
+        {
+          "changes": {
+            "icon": "lucide-album",
+            "color": "169, 203, 176"
+          }
+        }
+      ],
+      "equip": [
+        {
+          "changes": {
+            "icon": "lucide-briefcase",
+            "color": "255, 184, 108"
+          }
+        }
+      ],
+      "social": [
+        {
+          "changes": {
+            "icon": "lucide-annoyed",
+            "color": "225, 152, 187"
+          }
+        }
+      ],
+      "legendary": [
+        {
+          "changes": {
+            "icon": "lucide-biohazard",
+            "color": "245, 207, 15"
+          }
+        }
+      ],
+      "reaction": [
+        {
+          "changes": {
+            "icon": "lucide-bomb",
+            "color": "98, 223, 175"
+          }
+        }
+      ],
+      "description": [
+        {
+          "changes": {
+            "icon": "lucide-info",
+            "color": "223, 196, 98"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidianFallbackForced": false,
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

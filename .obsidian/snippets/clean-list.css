@@ -1,0 +1,12 @@
+.cleanlist div > ul {
+	list-style-type: none !important;
+}
+
+.cleanlist ul.dataview {
+    list-style-type: none !important;
+}
+
+.listtable div > ul > li {
+    min-width: 350px;
+    width: 15%;
+}

@@ -1,0 +1,17 @@
+.anp-header-color-toggle {
+  --heading-gradient-color: rgb(var(--ctp-text));
+}
+
+.anp-header-divider-color-toggle.theme-dark .HyperMD-header,
+.anp-header-divider-color-toggle.theme-dark .markdown-rendered :is(h1,h2,h3,h4,h5,h6) {
+    border-image-slice: 1;
+    /* border-image-source: linear-gradient(to left, rgb(var(--ctp-text)) 10%, var(--heading-gradient-color) 75%); */
+    border-image-source: linear-gradient(to right, var(--heading-gradient-color) 0% , 50% , rgb(var(--ctp-base)) 80% );
+}
+
+.HyperMD-header-1, .markdown-rendered h1 { --heading-gradient-color: var(--h1-color) }
+.HyperMD-header-2, .markdown-rendered h2 { --heading-gradient-color: var(--h2-color) }
+.HyperMD-header-3, .markdown-rendered h3 { --heading-gradient-color: var(--h3-color) }
+.HyperMD-header-4, .markdown-rendered h4 { --heading-gradient-color: var(--h4-color) }
+.HyperMD-header-5, .markdown-rendered h5 { --heading-gradient-color: var(--h5-color) }
+.HyperMD-header-6, .markdown-rendered h6 { --heading-gradient-color: var(--h6-color) }

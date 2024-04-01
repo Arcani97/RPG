@@ -1,0 +1,413 @@
+{
+  "addToDefaultIfMissing": true,
+  "calendars": [
+    {
+      "name": "Calendário de Farland",
+      "description": "Calendário de Farland, no mundo de Núrion.",
+      "id": "ID_49da4a6958fa",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Wedae",
+            "id": "ID_599b4bfb188a"
+          },
+          {
+            "type": "day",
+            "name": "Khamdae",
+            "id": "ID_880af99a392a"
+          },
+          {
+            "type": "day",
+            "name": "Hoarmdae",
+            "id": "ID_e8dacb682978"
+          },
+          {
+            "type": "day",
+            "name": "Amdae",
+            "id": "ID_c8a8f8482878"
+          },
+          {
+            "type": "day",
+            "name": "Suildae",
+            "id": "ID_3b7b0ab99aab"
+          },
+          {
+            "type": "day",
+            "name": "Dwardae",
+            "id": "ID_b93be8c849b8"
+          },
+          {
+            "type": "day",
+            "name": "Radae",
+            "id": "ID_3a3b9b49eb88"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Kantalos",
+            "length": 30,
+            "id": "ID_68984a583be9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Neltalos",
+            "length": 30,
+            "id": "ID_fba998d91ada",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Thrantos",
+            "length": 30,
+            "id": "ID_5a488b7838f9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Bestalos",
+            "length": 30,
+            "id": "ID_5ae93aea082b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Heshtalos",
+            "length": 30,
+            "id": "ID_f96978890a59",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Janoros",
+            "length": 30,
+            "id": "ID_c94a78f9db69",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Reeanos",
+            "length": 30,
+            "id": "ID_09fab90828cb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Flamgos",
+            "length": 30,
+            "id": "ID_ab1b78998bc8",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Calbros",
+            "length": 30,
+            "id": "ID_49ab2ab86b4a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Dekkos",
+            "length": 30,
+            "id": "ID_2a4a78ababf9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Belos",
+            "length": 30,
+            "id": "ID_6b2a9be84b78",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Vornos",
+            "length": 30,
+            "id": "ID_b838ebf82a68",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Tanaros",
+            "length": 10,
+            "id": "ID_2af8a90959ba",
+            "interval": 2,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Lua",
+            "cycle": 30,
+            "offset": 0,
+            "faceColor": "#ffffff",
+            "shadowColor": "#000",
+            "id": "ID_38d828ba3be9"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": true,
+        "leapDays": [],
+        "eras": [],
+        "padMonths": 2,
+        "padDays": 2,
+        "years": [],
+        "useCustomYears": false
+      },
+      "current": {
+        "day": 1,
+        "month": 0,
+        "year": 1869
+      },
+      "events": [
+        {
+          "name": "Ano Novo",
+          "description": "Primeiro dia do ano.",
+          "date": {
+            "month": 0,
+            "day": 1,
+            "year": [
+              1869,
+              1
+            ]
+          },
+          "id": "ID_9949ba2aea2b",
+          "note": "4 Mundo/Núrion/Eventos/Ano Novo.md",
+          "category": "ID_ea39dbf8eb7a",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Yule Festival",
+          "description": null,
+          "date": {
+            "month": 10,
+            "day": 25,
+            "year": [
+              1869,
+              1
+            ]
+          },
+          "id": "ID_49fbfaaad81b",
+          "note": "4 Mundo/Núrion/Eventos/Yule Festival.md",
+          "category": "ID_ea39dbf8eb7a",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Dark Eve Falling",
+          "description": null,
+          "date": {
+            "month": 11,
+            "day": 12,
+            "year": [
+              1869,
+              1
+            ]
+          },
+          "id": "ID_5bfa888bb889",
+          "note": "4 Mundo/Núrion/Eventos/Dark Eve Falling.md",
+          "category": "ID_ea39dbf8eb7a",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Primavera",
+          "description": "Primeiro dia da Primavera.",
+          "date": {
+            "month": 2,
+            "day": 21,
+            "year": [
+              1869,
+              1
+            ]
+          },
+          "id": "ID_b85af97baa6a",
+          "note": "4 Mundo/Núrion/Eventos/Primavera.md",
+          "category": "ID_9b1b7918ba78",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Verão",
+          "description": "Primeiro dia do Verão.",
+          "date": {
+            "month": 5,
+            "day": 21,
+            "year": [
+              1869,
+              1
+            ]
+          },
+          "id": "ID_597818796aeb",
+          "note": "4 Mundo/Núrion/Eventos/Verão.md",
+          "category": "ID_9b1b7918ba78",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Solstício de Verão",
+          "description": "Festival do Solstício.",
+          "date": {
+            "month": 5,
+            "day": 22,
+            "year": [
+              1869,
+              1
+            ]
+          },
+          "id": "ID_b9d80808b988",
+          "note": "4 Mundo/Núrion/Eventos/Solstício de Verão.md",
+          "category": "ID_ea39dbf8eb7a",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Outono",
+          "description": "Primeiro dia do Outono.",
+          "date": {
+            "month": 8,
+            "day": 21,
+            "year": [
+              1869,
+              1
+            ]
+          },
+          "id": "ID_1bbbc9d92a4a",
+          "note": "4 Mundo/Núrion/Eventos/Outono.md",
+          "category": "ID_9b1b7918ba78",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Inverno",
+          "description": "Primeiro dia do Inverno.",
+          "date": {
+            "month": 11,
+            "day": 21,
+            "year": [
+              1869,
+              1
+            ]
+          },
+          "id": "ID_e9989ac9e9e8",
+          "note": "4 Mundo/Núrion/Eventos/Inverno.md",
+          "category": "ID_9b1b7918ba78",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        },
+        {
+          "name": "Colheita",
+          "description": "Festival da Colheita",
+          "date": {
+            "month": 10,
+            "day": 15,
+            "year": [
+              1869,
+              1
+            ]
+          },
+          "id": "ID_a81aba9a98c9",
+          "note": "4 Mundo/Núrion/Eventos/Colheita.md",
+          "category": "ID_ea39dbf8eb7a",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        }
+      ],
+      "categories": [
+        {
+          "id": "ID_ea39dbf8eb7a",
+          "color": "#7370ff",
+          "name": "Feriado"
+        },
+        {
+          "id": "ID_9b1b7918ba78",
+          "color": "#e7ff8f",
+          "name": "Estação"
+        }
+      ],
+      "autoParse": false,
+      "path": [
+        "/"
+      ],
+      "supportInlineEvents": true,
+      "inlineEventTag": "#inline-events",
+      "dateFormat": "DD-MM-YYYY"
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_49da4a6958fa",
+  "eventPreview": true,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": true,
+  "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": true,
+  "syncBehavior": "Always",
+  "inlineEventsTag": "#inline-events",
+  "paths": [
+    [
+      "4 Mundo/Núrion/Eventos",
+      "ID_49da4a6958fa"
+    ]
+  ]
+}

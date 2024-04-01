@@ -1,0 +1,9 @@
+{
+  "templatesFolder": "Modelos",
+  "assetsFolder": "Arquivos",
+  "automaticMove": true,
+  "useSceneAnalyser": true,
+  "version": "4.1.14",
+  "customAttributes": [],
+  "forceFullWidth": true
+}

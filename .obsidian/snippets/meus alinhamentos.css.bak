@@ -1,0 +1,35 @@
+/* justify text */
+
+/* reading mode */
+.justify.markdown-preview-view p {
+	text-align: justify;
+	text-justify: inter-word;	
+}
+
+/* source view and live preview */
+.justify.markdown-source-view.mod-cm6 .cm-line {
+	text-align: justify;
+	text-justify: inter-word;	
+}
+
+
+/* center h1 */
+
+/* reading mode */
+.center-h1.markdown-preview-view h1 {
+    text-align: center;
+}
+
+/* center h2 */
+
+/* reading mode */
+.center-h2.markdown-preview-view h2 {
+    text-align: center;
+}
+
+/* center h3 */
+
+/* reading mode */
+.center-h3.markdown-preview-view h3 {
+    text-align: center;
+}

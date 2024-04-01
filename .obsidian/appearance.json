@@ -1,0 +1,32 @@
+{
+  "accentColor": "#00bfff",
+  "enabledCssSnippets": [
+    "notion-cards",
+    "floating-search-bar",
+    "dashboard-tab",
+    "supercharged-links-gen",
+    "Buttons",
+    "custom-rainbow-colors",
+    "custom-background",
+    "dashboard-home",
+    "dashboard",
+    "dashboard-ReadLineLength",
+    "extended-colorschemes",
+    "header-color-toggle",
+    "Remove-link-decoration",
+    "MCL Wide Views",
+    "DataviewTableWidth",
+    "S - Embed Adjustments",
+    "S - Images Adjustments",
+    "clean-list",
+    "CenterTables",
+    "S - Callouts",
+    "meus alinhamentos"
+  ],
+  "cssTheme": "AnuPpuccin",
+  "theme": "obsidian",
+  "baseFontSize": 15,
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "translucency": false
+}

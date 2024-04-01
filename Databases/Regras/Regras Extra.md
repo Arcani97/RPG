@@ -1,0 +1,154 @@
+---
+cssclasses:
+  - 
+tags: Regras
+---
+> [!warning] Rolagens
+> 
+> Nenhuma rolagem deve ser feita a menos que seja solicitado!
+
+**⠀**
+
+# Personagem
+
+## Proficiências por Genialidade
+
+Você ganha pontos de proficiência igual ao seu modificador de Inteligência (mínimo 0), e pode gastados seguindo a tabela:
+
+|                                        |     |
+| -------------------------------------- | --- |
+| Proficiência em Idioma                 | 1   |
+| Proficiência em Ferramenta             | 1   |
+| Proficiência em uma Perícia            | 1   |
+| Proficiência em uma Arma               | 1   |
+| Proficiência Dobrada em uma Ferramenta | 2   |
+| Proficiência Dobrada em uma Perícia    | 2   |
+
+## Dados de Proficiência
+
+Essa regra opcional substitui o bônus de proficiência de um personagem por um dado de proficiência, adicionando mais aleatoriedade ao jogo e tornando a proficiência um indicador de maestria menos confiável.
+
+Ao invés de adicionar um bônus de proficiência a um valor de habilidade, jogada de ataque ou teste de resistência, o jogador do personagem rola um dado.
+
+A tabela mostra qual dado ou dados rolar, como determinado pelo nível do personagem. Sempre que uma característica, como a Especialização do ladino, permitir que o personagem dobre seu bônus de proficiência, o jogador rolará o dado de proficiência do personagem duas vezes, ao invés de uma.
+
+Essa opção é direcionada a personagens de jogador e a personagens do mestre que tenha níveis, ao invés de monstros que não tenham.
+
+| Nível     | Bônus de Proficiência | Dado de Proficiência |
+| --------- | --------------------- | -------------------- |
+| 1° — 4°   | +2                    | 1d4                  |
+| 5° — 8°   | +3                    | 1d6                  |
+| 9° — 12°  | +4                    | 1d8                  |
+| 13° — 16° | +5                    | 1d10                 |
+| 17° — 20° | +6                    | 1d12                 |
+
+## Testes Secretos
+
+Testes de Percepção, Furtividade, Testes de Resistir a Morte ou qualquer outro teste que o mestre queira, serão feitos secretamente pelo mestre e apenas os resultados são divulgados para os jogadores.
+
+## Sucessos Automáticos
+
+Sucessos Automáticos são exatamente o que parecem: em vez de fazer um jogador rolar para passar no teste, você apenas decide que ele teve sucesso! Como e quando exatamente você decide premiá-los como Mestre é com você, mas a idéia é que eles sejam premiados por uma interpretação realmente impressionante ou por soluções realmente criativas para problemas.
+
+## Talento de Nível 1
+
+Todos os personagens começam com um talento.
+
+**⠀**
+
+# Descanso e Recuperação
+
+## Dependência de Kit de Primeiros Socorros
+
+Um personagem não pode gastar nenhum Dado de Vida após terminar um descanso curto, a não ser que alguém gaste um uso de um kit de primeiros-socorros para enfaixar e tratar das feridas do personagem.
+
+## Realismo Cruel
+
+Essa variação usa um descanso curto de 8 horas e um longo de 7 dias.
+
+Isso provoca pausas na campanha, requerendo que os jogadores julguem cuidadosamente os benefícios e desvantagens do combate. Os personagens não podem se dar ao luxo de se engajar em tantas batalhas em sequência e toda a aventura requer planejamento meticuloso. Essa abordagem encoraja os personagens a passar mais tempo fora de masmorras.
+
+É uma boa opção para campanhas que enfatizam intrigas, política e interações com outros PdMs, e onde o combate é raro ou, às vezes, deve ser evitado ao invés de caído de cabeça.
+
+— Será considerado um descanso longo, um período de 7 descansos curtos sem ter dito nenhum combate, ou outra atividade física pesada.
+
+## Vida e Cura Máximos
+
+Ao subir de nível ou ao rolar uma cura, o resultado é maximizado ao invés de rolar os dados.
+
+**⠀**
+
+# Combate
+
+## Geral
+
+### Componentes em Feitiços
+Os componentes de um feitiço pode ser substituído por uma carga da bolsa de componentes, com a exceção dos componentes que especificam um preço.
+
+### Acertos Críticos
+O numero de dados rolados em um Acerto Crítico é igual ao numero de dados rolados normalmente, multiplicado pelo multiplicador de dano da arma.
+
+### Iniciativa Flexível
+A iniciativa será rolada a cada rodada. Porem qualquer jogador pode atrasar sua iniciativa para jogar em um momento mais tardio.
+
+### Poções de Ação Bônus
+Beber uma poção custa apenas uma ação bônus.
+
+### Intimidação Bruta
+Testes de Intimidação podem usar o modificador de força no lugar do de carisma.
+
+### Ataque Extra Preparado
+Ataques preparados permitem o uso de um ataque extra.
+
+### Trespassando Criaturas
+Quando um ataque corpo a corpo reduz uma criatura 0 pontos de vida, qualquer dano excedente desse ataque pode ser transferido para outra criatura próxima. O atacante escolhe como alvo outra criatura ao seu alcance e, se a jogada de ataque original puder atingi-la, aplique qualquer dano restante a ela. Se essa criatura é igualmente reduzida a 0 pontos de vida, repita este processo, transferindo os pontos de dano restantes até que não existam alvos válidos.
+
+**⠀**
+
+## Ações de Combate
+
+### Desviar e Aparar
+Você pode usar sua ação bônus e gastar um de seus ataques para preparar uma reação que desvie a força de um ataque feito contra você.
+
+Até o início do seu próximo turno, você pode usar sua reação contra um ataque corpo a corpo inimigo para absorver parte do dano. Role o dado de sua arma, sem aplicar modificadores e proficiência, e diminua o dano do ataque inimigo por esse valor. Se sua rolagem for igual ou maior que o dano causado, o ataque é aparado e você ganha vantagem em seu próximo ataque contra o mesmo inimigo.
+
+### Posição Defensiva
+Você pode gastar sua ação para manter uma posição defensiva ganhando +4 na CA
+
+### Contra ataque
+Você pode usar sua ação bônus e gastar um de seus ataques para preparar uma reação que lhe permita seguir um ataque mal sucedido de uma criatura com um contra-ataque.
+
+Escolha uma criatura. Até seu próximo turno, se a criatura errar um ataque contra você, você poderá usar sua reação para atacar a criatura. Se tiver sucesso, você causa dano adicional igual ao seu modificador de Força ou Destreza (mínimo de 1).
+
+**⠀**
+
+## Ações furtivas
+
+### Agarrar em Furtividade
+Quando você entra em furtividade com sucesso, desde que seu teste de furtividade esteja acima da Percepção Passiva de qualquer um que esteja guardando, seu primeiro teste de Agarrar sempre ganha vantagem.
+
+### Agarrar com Habilidade
+Todos podem agarrar alguém usando a força, mas pessoas bem treinadas podem usar técnicas para agarrar alguém. Ao fazer um teste de agarrar, você pode fazer tanto um teste de Força (Atletismo), quanto um teste de Destreza (Acrobacia).
+
+### Mordaça na boca
+Depois de agarrar uma criatura com sucesso, você pode tentar amordaçá-la e evitar que ela emita sons.
+
+Use sua ação bônus e faça um teste adicional de Agarrar. Se você tiver sucesso nesta luta, a criatura será amordaçada enquanto a luta persistir. Uma criatura amordaçada não pode lançar feitiços com componentes verbais e sua fala fica abafada e não pode ser compreendida. Quando a criatura não está mais agarrada, ela também não está mais amordaçada.
+
+### Estrangulamento
+Depois de conseguir Agarrar uma criatura pelo pescoço ou outro ponto vital, você pode fazer um teste adicional de Agarrar para tentar sufocá-la até deixá-la inconsciente ou morta.
+
+Tente o teste adicional de Agarrar em desvantagem. Se você tiver sucesso nesta luta, suas mãos se moverão para o ponto vital da criatura e começarão a cortar o fluxo de ar. No próximo turno da criatura, ela deverá fazer um teste para tentar se libertar. Se soltará se tiver sucesso, mas começará a sufocar caso falhe.
+
+### Remoção silenciosa
+Ladinos ou qualquer pessoa devidamente treinada ou equipada com uma arma silenciosa pode tentar incapacitar uma criatura surpresa, através da força ou com uma arma. Você pode tentar um ataque com arma usando seu modificador de Destreza ou um teste de Força para quebrar o pescoço. A CD do teste é igual a 10 + os Dados de Vida da criatura.
+
+Se você tiver sucesso, a criatura alvo será executado. E em caso de falha, o alvo perde 50% da vida.
+
+### Golpe de Misericórdia
+Condições como Paralisado, Inconsciente ou Adormecido, que concedem acertos críticos automáticos contra criaturas humanoides, permitem que você dê um golpe final executando o alvo.
+
+**⠀**
+
+
+

@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1708369536658,
+      "path": "Dashboards/Mapas de Conteúdo/Anotações Diárias.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1708369543907,
+      "path": "Dashboards/Mapas de Conteúdo/Anotações Semanais.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1708408926848,
+      "path": "Dashboards/Mapas de Conteúdo/Documentações.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1708369550075,
+      "path": "Dashboards/Mapas de Conteúdo/Livros.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1708412876468,
+      "path": "Dashboards/Mapas de Conteúdo/Matérias.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1708369559164,
+      "path": "Dashboards/Mapas de Conteúdo/Vídeos.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1708369561443,
+      "path": "Dashboards/Mapas de Conteúdo/Vocábulo.md"
+    }
+  ]
+}

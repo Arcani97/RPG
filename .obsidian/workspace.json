@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "4de4a3d63261bab3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cc3d12d657f5ea4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "578e59bac8ad4e63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dashboards/Home.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2a15f9907fa553d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "340f437c010dda65",
+        "type": "tabs",
+        "dimension": 80.76923076923077,
+        "children": [
+          {
+            "id": "a490da9491c42f0e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a6855bc9bee9ae91",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Item/Arma/de-Fogo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "feee148fa5c72a9f",
+        "type": "tabs",
+        "dimension": 19.230769230769234,
+        "children": [
+          {
+            "id": "25afa485c4e033ba",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "0bc24b83dcfb1bd3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 321.5
+  },
+  "right": {
+    "id": "1644caf7255607ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "6be5024bc212dd60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e452c7428f9c81f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dashboards/Home.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7700b8c47436a98e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad26dc53252139db",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ac474b928f7784e2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "5614c4b8a870b5e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dashboards/Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "a664e6f941ef3ae5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dashboards/Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "0be24985f5db9053",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 313
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "canvas:Criar novo canvas": false,
+      "switcher:Abrir a troca rápida": true,
+      "graph:Abrir visualização em gráfico": true,
+      "command-palette:Abrir paleta de comandos": true,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "templater-obsidian:Templater": true,
+      "cmdr:Multi-Column Markdown: Insert Multi-Column Region": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian42-brat:BRAT": true,
+      "rpg-manager:RPG Manager": true,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "578e59bac8ad4e63",
+  "lastOpenFiles": [
+    "Dashboards/MOC/Classes.md",
+    "Mundo/Núrion/Farland/Daven/Elder Daven.md",
+    "Dashboards/Home.md",
+    "Mundo/Núrion/Farland/Daven/Daven.md",
+    "Mundo/Núrion/Phanteon/Deuses.md",
+    "Criação de Personagem/Classes/Artífice.md",
+    "Modelos/Campanha.md",
+    "Databases/Arquivos/Banner.webp",
+    "Mundo/Núrion/Phanteon",
+    "Mundo/Núrion/Conteúdo Geral/Documentação Élfica da História do Mundo.md",
+    "Mundo/Núrion/Conteúdo Geral/História Resumida de Farland.md",
+    "Mundo/Núrion/Conteúdo Geral/Mapas.md",
+    "Dashboards/Home.md",
+    "Mundo/Próprio/Solara.md",
+    "Mundo/Núrion/Conteúdo Geral",
+    "Mundo/Núrion/Farland/Daven",
+    "Mundo/Núrion/Farland",
+    "Databases/Arquivos/elderdaven.jpg",
+    "Criação de Personagem/Classes/Invocador.md",
+    "Databases/Itens/0,5 Kg de Fermento.md",
+    "Databases/Itens/0,5 Kg de Farinha.md",
+    "Databases/Itens/0,5 Kg de Cobre.md",
+    "Databases/Itens/0,5 Kg de Carvão.md",
+    "Databases/Itens/0,5 Kg de Canela.md",
+    "Databases/Itens/0,5 Kg de Argila.md",
+    "Databases/Itens/0,5 Kg de Alçafrão.md",
+    "Dashboards/MOC/Itens.md",
+    "Databases/Itens/0,5 Kg de Platina.md",
+    "Databases/Itens/Tapete.md",
+    "Databases/Itens/0,5 Kg de Ouro.md",
+    "Databases/Itens/Boi.md",
+    "Databases/Itens/0,5 Kg de Mel.md",
+    "Databases/Arquivos/Wildland3.jpg",
+    "Databases/Arquivos/eruna.jpg",
+    "Databases/Arquivos/wintervale2.jpg",
+    "Databases/Arquivos/kale2.jpg",
+    "Databases/Arquivos/belend.jpg",
+    "Databases/Arquivos/kelerakmap2.jpg",
+    "Databases/Arquivos/daven3.jpg",
+    "Databases/Arquivos/orland2.jpg",
+    "Sem título.canvas",
+    "Sem título 1.canvas",
+    "4 Mundo/Núrion/Eventos",
+    "Sem título",
+    "Mundo/Próprio",
+    "Mundo/Núrion",
+    "3 Campanhas/One Shots",
+    "Mundo",
+    "Dashboards/Home.canvas"
+  ]
+}

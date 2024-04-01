@@ -1,0 +1,17 @@
+{
+  "livePreview": false,
+  "showLineNumber": true,
+  "propertiesInDocument": "hidden",
+  "showInlineTitle": false,
+  "defaultViewMode": "preview",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "0 Arquivos",
+  "pdfExportSettings": {
+    "pageSize": "A3",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  },
+  "newFileLocation": "current"
+}

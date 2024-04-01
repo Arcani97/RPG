@@ -1,0 +1,57 @@
+.tableitens .table-view-table td:nth-child(1) {
+  min-width: 160px;
+  max-width: 160px;
+}
+
+.tableitens .table-view-table td:nth-child(2) {
+  min-width: 120px;
+  max-width: 120px;
+}
+
+.tableitens .table-view-table td:nth-child(3) {
+  min-width: 20px;
+  max-width: 20px;
+}
+
+.tableitens .table-view-table td:nth-child(4) {
+  min-width: 60px;
+  max-width: 60px;
+}
+
+
+
+
+.tableveiculos .table-view-table td:nth-child(1) {
+  min-width: 170px;
+  max-width: 170px;
+}
+
+.tableveiculos .table-view-table td:nth-child(2) {
+  min-width: 20px;
+  max-width: 20px;
+}
+
+.tableveiculos .table-view-table td:nth-child(3) {
+  min-width: 20px;
+  max-width: 20px;
+}
+
+.tableveiculos .table-view-table td:nth-child(4) {
+  min-width: 20px;
+  max-width: 20px;
+}
+
+.tableveiculos .table-view-table td:nth-child(5) {
+  min-width: 170px;
+  max-width: 170px;
+}
+
+.tableveiculos .table-view-table td:nth-child(6) {
+  min-width: 20px;
+  max-width: 20px;
+}
+
+.tableveiculos .table-view-table td:nth-child(7) {
+  min-width: 20px;
+  max-width: 20px;
+}
